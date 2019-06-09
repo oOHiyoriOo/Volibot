@@ -1,2 +1,2 @@
 # Volibot
-Discord bot For Showing League 4.2 Champion Stats
+A Discord query bot for league version 4.2
